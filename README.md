@@ -1,5 +1,5 @@
 🦟 Malaria Case Anomaly Detection (Nigeria Dataset)
-This project visualizes and detects anomalies in malaria case locations across Nigerian villages from 2015 to 2019 using One-Class SVM. The focus is on spotting unusual geographical patterns that might suggest data errors, outbreaks, or reporting inconsistencies.
+This project visualizes and detects anomalies in malaria case locations across Nigerian villages from 2015 to 2019 using One-Class SVM. The focus is on spotting unusual geographical patterns that might suggest data errors, outbreaks, or reporting inconsistencies. This real-time data is provided by one of my friend Mvuyandiani Lyson.
 
 📁 Files Included
 Malaria.py – Main Python script for:
@@ -56,6 +56,6 @@ Monitoring disease spread & data quality
 Early warning systems for outbreaks
 
 👤 Author
-Abhishek Pandey
+Abhishek Pandey and Mvuyandiani Lyson
 Malaria Mapping & AI Research – 2025
 
